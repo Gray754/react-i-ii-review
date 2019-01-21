@@ -3,16 +3,22 @@
 Answer these on your own, then compare answers as a group
 
 1.  What is React?
+It is a js library
 
 2.  What is create-react-app?
+it creates the server to run react on
 
 3.  What is Component Based Architecture?
+way to structure a project
 
 4.  What is JSX?
+a type of javascript 
 
 5.  What is the virtual DOM?
+Document Object Model
 
 6.  What is unidirectional (one-way) data flow?
+data can only travel from the parent to child
 
 ### Understand
 

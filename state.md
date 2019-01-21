@@ -3,10 +3,13 @@
 Answer these on your own, then compare answers as a group
 
 1.  What is state?
+a piece of info that cannot be mutated
 
 2.  Where do you set initial state?
+in the constructor method
 
 3.  What method do you use to update state?
+this.setState()
 
 ### Understand
 
